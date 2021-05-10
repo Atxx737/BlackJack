@@ -1,2 +1,0 @@
-# BlackJack
-Đồ án LTMCB
